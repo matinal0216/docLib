@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
-
+const base = "/docLib/"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base,
   title: "doc",
   description: " ",
   themeConfig: {
