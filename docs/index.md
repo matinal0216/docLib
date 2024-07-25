@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "doc"
+  name: "docLib"
   text: " "
   tagline: My great project tagline
   actions:
